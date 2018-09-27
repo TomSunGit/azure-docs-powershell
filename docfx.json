@@ -103,7 +103,7 @@
                 "exclude": [
                     "docs-conceptual/**"
                 ],
-                "dest": "module/servicemanagement"
+                "dest": "module"
             },
             {
                 "files": [
