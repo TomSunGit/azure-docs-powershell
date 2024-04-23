@@ -2,3 +2,4 @@ Cmdlet help Docs for Azure PowerShell services thats publishing on docs.microsof
 - update
 - test commit
 - test github
+- upadte
